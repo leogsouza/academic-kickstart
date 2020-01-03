@@ -13,9 +13,9 @@ superuser: true
 role: Software Developer
 
 # Organizations/Affiliations
-organizations:
-- name: GFT
-  url: ""
+# organizations:
+# - name: GFT Technologies
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
+
+
+
 I am a software developer expert building backend applications. I have strong knowledge building frontend applications
 and mobile applications. I'm looking for opportunities to build new things and learn new concepts and technologies
-to improve my carrer.
+to improve my career.
