@@ -24,6 +24,7 @@ interests:
 - Software Engineering
 - Machine Learning
 - Mobile Development
+- Remote Work
 
 # education:
 #   courses:
