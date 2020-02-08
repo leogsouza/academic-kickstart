@@ -21,7 +21,7 @@ Well, some reasons encouraged me to create this blog:
 - I also want to share my personal experiences that could be useful for anyone who's living a similar situation.
 
 ## **Conclusion**
-So, this is of my first post and I know that maybe I made some mistakes but I'll improve my writing skills as I write more and certainly give more interesting subjects.
+So, this is my first post and I know that maybe I made some mistakes but I'll improve my writing skills as I write more and certainly give more interesting subjects.
 
 Feel free to reach out with your thoughts.
 
