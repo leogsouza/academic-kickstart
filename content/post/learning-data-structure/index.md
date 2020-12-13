@@ -9,4 +9,4 @@ draft: true
 summary: My journey to finally learn DSA
 ---
 
-I have over 15 years of experience working as a Software Developer and my biggest frustration for me it's that I don't have enough knowledge in Data Structures and Algorithms. So, to fix this, I decided (again) to start from beginning and study DSA improve my knowledge and feel better with myself. To help me to improve my knowledge I will write about every step that I will advance in this journey.
+I have over 15 years of experience working as a Software Developer and my biggest frustration it's that I don't have enough knowledge about Data Structures and Algorithms (DSA). So, to fix this, I decided (again) to start from beginning and study DSA improve my knowledge and feel better with myself. To help me to improve my knowledge I will write about every step that I will advance in this journey and share some material I will use to acomplish this goal. 
