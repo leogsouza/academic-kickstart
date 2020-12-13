@@ -5,7 +5,7 @@ authors:
 date: 2020-12-04
 featured: true
 reading_time: true
-draft: true
+draft: false
 summary: My journey to finally learn DSA
 ---
 
