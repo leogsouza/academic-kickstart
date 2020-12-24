@@ -3,7 +3,7 @@ title: Learning Data Structures and Algorithms(AGAIN)
 authors: 
   - leogsouza
 date: 2020-12-04
-featured: true
+featured: false
 reading_time: true
 draft: false
 summary: My journey to finally learn DSA
