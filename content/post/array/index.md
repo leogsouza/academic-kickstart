@@ -10,6 +10,8 @@ summary: Getting started with Arrays
 image:
   placement: 3
   caption: 'Image credit: [**AltumCode**](https://unsplash.com/photos/oZ61KFUQsus)'
+
+tags: ["Go", "Data Structure"]
 ---
 
 Array is a data structure used to store a fix number of elements and these elements should be of the same type. 
